@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ![Kami's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=YeungHoiChiu&include_orgs=true)
 
 - A test developer, interesting in Java, Golang and Python.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeungHoiChiu&layout=compact)
