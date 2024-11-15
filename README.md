@@ -3,7 +3,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YeungHoiChiu&theme=radical">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2 align="center">A test developer interested in there... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
