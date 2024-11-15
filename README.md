@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=YeungHoiChiu&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YeungHoiChiu&theme=radical">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YeungHoiChiu&theme=radical"> -->
 </p>
 
 <h2 align="center">A test developer interested in there... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
