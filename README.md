@@ -5,7 +5,7 @@
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
