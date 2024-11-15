@@ -1,24 +1,20 @@
-### Hi there 👋
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=YeungHoiChiu&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YeungHoiChiu&theme=radical">
+</p>
 
-<!--
-**YeungHoiChiu/YangKaiChao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=SpringBoot"/>
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js"/>
+<img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+<p align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hey, I'm Kami Yeung ✨🚀✨
-
-<!--[![Github](https://img.shields.io/github/followers/YeungHoiChiu?label=Follow&style=social)](https://github.com/YeungHoiChiu)-->
-
-![Kami's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=YeungHoiChiu&include_orgs=true)
-
-- A test developer, interesting in Java, Golang and Python.
